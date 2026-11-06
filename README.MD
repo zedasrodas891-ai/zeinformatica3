@@ -22,5 +22,5 @@ Aplicação web interativa desenvolvida em **Python** e **Streamlit** para permi
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/zeinformatica2/zeinformatica3.git](https://github.com/zedasrodas891-ai/zeinformatica3)
-   cd SEU-REPOSITORIO
+   cd zeinformatica3
    ```
